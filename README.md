@@ -1,3 +1,5 @@
+![3tier Application with Docker](https://github.com/user-attachments/assets/750a37b0-5e40-4204-8337-cf00f0fc0bdd)
+
 ![Language](https://img.shields.io/badge/language-Java%20-blue.svg)
 ![Technologies](https://img.shields.io/badge/technologies-Spring_boot%20-green.svg)
 ![Technologies](https://img.shields.io/badge/technologies-Spring_MVC%20-green.svg)
